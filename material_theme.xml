@@ -4,6 +4,7 @@
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="tabsHeight" value="25" />
     <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="768a8eb6:16fc726d8cb:-8000" />

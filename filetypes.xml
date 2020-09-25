@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="start-local-db" type="Native" />
       <mapping pattern="create-localstack-topic" type="PLAIN_TEXT" />
+      <mapping pattern="llama" type="PLAIN_TEXT" />
       <mapping pattern="start-dev-db" type="PLAIN_TEXT" />
       <mapping pattern="dev1" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />

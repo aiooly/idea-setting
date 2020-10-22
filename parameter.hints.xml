@@ -4,6 +4,7 @@
       <blacklist language="TypeScript">
         <added pattern="func(name,fn,timeout)" />
         <added pattern="jest.mock(moduleName,factory,options)" />
+        <added pattern="fromPredicate(predicate,onFalse)" />
       </blacklist>
     </blacklists>
   </component>

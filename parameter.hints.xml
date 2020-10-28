@@ -8,6 +8,8 @@
         <added pattern="tryCatchK(f,onRejected)" />
         <added pattern="filterOrElse(predicate,onFalse)" />
         <added pattern="tryCatch(f,onRejected)" />
+        <added pattern="get(path,handlers)" />
+        <added pattern="post(path,handlers)" />
       </blacklist>
     </blacklists>
   </component>

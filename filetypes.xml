@@ -1,11 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="start-local-db" type="Native" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="dev1" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping pattern="login-ecr" type="Shell Script" />
@@ -19,6 +17,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="create-localstack-topic" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="llama" approved="true" type="PLAIN_TEXT" />

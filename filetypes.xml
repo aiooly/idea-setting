@@ -6,6 +6,8 @@
       <mapping pattern="start-local-db" type="Native" />
       <mapping pattern="dev1" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
+      <mapping ext="cert" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="login-ecr" type="Shell Script" />
       <mapping pattern="seed-s3-agencies-prod" type="Shell Script" />
       <mapping pattern="seed-s3-agencies-test" type="Shell Script" />

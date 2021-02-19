@@ -16,7 +16,7 @@
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.graphql</mask>
+    <mask>*.php</mask>
   </component>
 </application>

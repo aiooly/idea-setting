@@ -10,6 +10,7 @@
         <added pattern="tryCatch(f,onRejected)" />
         <added pattern="get(path,handlers)" />
         <added pattern="post(path,handlers)" />
+        <added pattern="func(property,pipes)" />
       </blacklist>
     </blacklists>
   </component>

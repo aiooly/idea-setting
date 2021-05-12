@@ -11,6 +11,9 @@
         <added pattern="get(path,handlers)" />
         <added pattern="post(path,handlers)" />
         <added pattern="func(property,pipes)" />
+        <added pattern="right(a)" />
+        <added pattern="chain(f)" />
+        <added pattern="fold(onLeft,onRight)" />
       </blacklist>
     </blacklists>
   </component>

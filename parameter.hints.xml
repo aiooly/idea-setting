@@ -14,7 +14,12 @@
         <added pattern="right(a)" />
         <added pattern="chain(f)" />
         <added pattern="fold(onLeft,onRight)" />
+        <added pattern="queryByText(container,id,options)" />
+        <added pattern="getByText(container,id,options)" />
       </blacklist>
     </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+    </disabledLanguages>
   </component>
 </application>

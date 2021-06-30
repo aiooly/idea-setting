@@ -11,6 +11,12 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="ts.chain.hints" />
+    <option name="disabledLanguages">
+      <set>
+        <option value="JAVA" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
   </component>
 </application>

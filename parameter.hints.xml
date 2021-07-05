@@ -1,0 +1,25 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="func(name,fn,timeout)" />
+        <added pattern="jest.mock(moduleName,factory,options)" />
+        <added pattern="fromPredicate(predicate,onFalse)" />
+        <added pattern="tryCatchK(f,onRejected)" />
+        <added pattern="filterOrElse(predicate,onFalse)" />
+        <added pattern="tryCatch(f,onRejected)" />
+        <added pattern="get(path,handlers)" />
+        <added pattern="post(path,handlers)" />
+        <added pattern="func(property,pipes)" />
+        <added pattern="right(a)" />
+        <added pattern="chain(f)" />
+        <added pattern="fold(onLeft,onRight)" />
+        <added pattern="queryByText(container,id,options)" />
+        <added pattern="getByText(container,id,options)" />
+      </blacklist>
+    </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+    </disabledLanguages>
+  </component>
+</application>

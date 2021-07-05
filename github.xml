@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="69d4f7b5-1383-4e88-979a-b726ad4709df" name="yanxian-li">
+      <server useHttp="false" host="git.realestate.com.au" />
+    </account>
+  </component>
+</application>
